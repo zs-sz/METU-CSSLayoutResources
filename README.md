@@ -4,4 +4,4 @@
 
 ## Dokmumentaciok
 
-- (MDN, Mozilla Developer Network)[https://developer.mozilla.org/en-US/]
+- [MDN, Mozilla Developer Network](https://developer.mozilla.org/en-US/)
