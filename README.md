@@ -24,3 +24,7 @@ https://codepen.io/balazs_sziklai/pen/OJjopag
 ## APP
 
 -
+
+## GIT LINKEK
+
+https://docs.github.com/en/get-started
