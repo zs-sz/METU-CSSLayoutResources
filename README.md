@@ -43,3 +43,8 @@ https://codepen.io/balazs_sziklai/pen/dyVyYqm
 
 - [Pixi](https://pixijs.com/)
 - [P5JS](https://p5js.org/)
+
+### SVG
+
+- [D3](https://d3js.org/)
+- [SNAP](http://snapsvg.io)
